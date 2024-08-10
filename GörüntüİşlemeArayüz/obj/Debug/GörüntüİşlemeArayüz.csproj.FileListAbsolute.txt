@@ -1,0 +1,51 @@
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.exe.config
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.exe
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.pdb
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.AssemblyReference.cache
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Form1.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Properties.Resources.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.GenerateResource.cache
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.CoreCompileInputs.cache
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.exe
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.pdb
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.ConvertToGray.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.CropImage.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Blurring.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Gauss.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Histogram.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.RGB.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.İmageRotate.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Brightness.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.SaltPepper.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Sobel.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Aritmatikİşlemler.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Binarycs.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Adaptif.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Zoom.resources
+C:\Users\Asus i5 ram4\source\repos\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.zoom1.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.exe.config
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.exe
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\bin\Debug\GörüntüİşlemeArayüz.pdb
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.AssemblyReference.cache
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.SuggestedBindingRedirects.cache
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Adaptif.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Aritmatikİşlemler.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Binarycs.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Blurring.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Brightness.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.ConvertToGray.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.CropImage.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Form1.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Gauss.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Histogram.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Properties.Resources.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.RGB.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.SaltPepper.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Sobel.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.Zoom.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.zoom1.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.İmageRotate.resources
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.GenerateResource.cache
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.csproj.CoreCompileInputs.cache
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.exe
+C:\Users\ouzte\Desktop\GörüntüİşlemeArayüz\GörüntüİşlemeArayüz\obj\Debug\GörüntüİşlemeArayüz.pdb
